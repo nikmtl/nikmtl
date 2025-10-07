@@ -86,7 +86,7 @@ Other<br>
 <!-- ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=white) -->
 
 
-## Stats
+## Stats of public repositories
 <!-- ![](https://github-readme-stats.vercel.app/api?username=nikmtl&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=nikmtl&theme=transparent&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikmtl&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
