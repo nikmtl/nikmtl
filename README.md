@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Nik
 🎓I'm currently studying computer science<br>
 🤝I'm open to collaborating and learning new tech skills<br>
-🧮I'm interested in data structures and smart algorithms <br>
-🌱I'm currently learning docker and server<br>
+📱I'm interested in data structures, system design, web dev and mobile development<br>
+🌱I'm currently learning mobile development<br>
 ✈️I love traveling, cooking and design
 
 ## Tech Stack
