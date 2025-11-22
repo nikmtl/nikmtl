@@ -87,12 +87,17 @@ Other<br>
 
 
 ## Stats of public repositories
-<!-- ![](https://github-readme-stats.vercel.app/api?username=nikmtl&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
-![](https://nirzak-streak-stats.vercel.app/?user=nikmtl&theme=transparent&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikmtl&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<details>
+  <summary> Click to view </summary>
+  
+  <!-- ![](https://github-readme-stats.vercel.app/api?username=nikmtl&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
+  ![](https://nirzak-streak-stats.vercel.app/?user=nikmtl&theme=transparent&hide_border=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikmtl&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-#### Trophies
-![](https://github-profile-trophy.vercel.app/?username=nikmtl&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+  <!--#### Trophies
+  ![](https://github-profile-trophy.vercel.app/?username=nikmtl&theme=transparent&no-frame=true&no-bg=true&margin-w=4)-->
+</details>
+
 
 <!--
 #### Top Contributed Repo
